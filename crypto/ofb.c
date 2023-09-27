@@ -3,7 +3,7 @@
 /*
  * OFB: Output FeedBack mode
  *
- * Copyright (C) 2018 ARM Limited or its affiliates.
+ * Copyright (C) 2023 ARM Limited or its affiliates.
  * All rights reserved.
  */
 

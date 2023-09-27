@@ -3,7 +3,7 @@
  * VirtualBox Guest Shared Folders support: Utility functions.
  * Mainly conversion from/to VirtualBox/Linux data structures.
  *
- * Copyright (C) 2006-2018 Oracle Corporation
+ * Copyright (C) 2006-2023 Oracle Corporation
  */
 
 #include <linux/namei.h>
